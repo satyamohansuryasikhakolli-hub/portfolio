@@ -1,3 +1,6 @@
+# My 3D Portfolio
+
+🚀 **Live Website:** https://suryportfolio-ki95.vercel.app/
 # 🌌 Satya Mohan Surya — "Neural Cosmos" 3D Developer Portfolio
 
 A futuristic, award-worthy 3D developer portfolio interface built for **Satya Mohan Surya** (CSE Student | Aspiring AI Engineer & Software Developer). Powered by **React 18**, **Three.js**, **React Three Fiber**, **Framer Motion**, **Lenis**, and **Tailwind CSS**.
